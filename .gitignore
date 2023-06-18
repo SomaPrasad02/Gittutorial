@@ -1,0 +1,6 @@
+/mylogs.logs
+*.logs
+*.cpps
+ignore/
+
+
